@@ -10,7 +10,7 @@ include "inculude/header.php";
 <h1 class="h1-title">Trade License Registration</h1>
 </div>
 <ul class="breadcrumbs">
-<li><a href="index-2.html" title="">Home<i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
+<li><a href="index.php" title="">Home<i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
 <li><a href="#" title="">CA Services<i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
 <li><a href="#" title="">Trade License Registration</a></li>
 </ul>

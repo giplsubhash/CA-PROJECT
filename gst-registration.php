@@ -114,7 +114,7 @@
 <div class="header-wrap">
 <div class="col-md-2">
 <div id="logo" class="logo">
-<a href="index-2.html" title="">
+<a href="index.php" title="">
 <img src="images/Logo-new-final.png" alt="logo My Business"/>
 </a>
 </div>
@@ -138,7 +138,7 @@
 </div>
 <nav id="mainnav" class="mainnav">
 <ul class="menu">
-<li><a href="index-2.html" title="">Home</a></li>
+<li><a href="index.php" title="">Home</a></li>
 <li>
 <a href="#" title="">Legal Services <i class="fa fa-angle-down" aria-hidden="true"></i></a>
 <ul class="sub-menu">
@@ -248,7 +248,7 @@
 <h1 class="h1-title">GST Registration</h1>
 </div>
 <ul class="breadcrumbs">
-<li><a href="index-2.html" title="">Home<i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
+<li><a href="index.php" title="">Home<i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
 <li><a href="#" title="">CA Services<i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
 <li><a href="#" title="">GST Registration</a></li>
 </ul>

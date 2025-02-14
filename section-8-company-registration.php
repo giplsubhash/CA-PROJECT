@@ -88,7 +88,7 @@
 <div class="header-wrap">
 <div class="col-md-2">
 <div id="logo" class="logo">
-<a href="index-2.html" title="link2">
+<a href="index.php" title="link2">
 <img src="images/Logo-new-final.png" alt="logo My Business"/>
 </a>
 </div>
@@ -112,7 +112,7 @@
 </div>
 <nav id="mainnav" class="mainnav">
 <ul class="menu">
-<li><a href="index-2.html" title="link4">Home</a></li>
+<li><a href="index.php" title="link4">Home</a></li>
 <li>
 <a href="#" title="link5">Legal Services <i class="fa fa-angle-down" aria-hidden="true"></i></a>
 <ul class="sub-menu">
@@ -222,7 +222,7 @@
 <h1 class="h1-title">Section 8 Company Registration</h1>
 </div>
 <ul class="breadcrumbs">
-<li><a href="index-2.html" title="link65">Home<i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
+<li><a href="index.php" title="link65">Home<i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
 <li><a href="#" title="link66">CA Services<i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
 <li><a href="#" title="link67">Section 8 Company Registration</a></li>
 </ul>

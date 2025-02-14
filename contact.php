@@ -36,11 +36,11 @@ Kolkata-700001</p>
 </div>
 <div class="info info-address">
 <div class="title">Phone number</div>
-<p>Call us: 9984087027</p>
+<p>Call us: 9073639892 &nbsp 03345011633</p>
 </div>
 <div class="info info-address">
 <div class="title">E-mail address</div>
-<p>rahul.bhakat@rpassociates.com</p>
+<p>rpassociatestaxcon@gmail.com</p>
 </div>
 </div>
 </div>

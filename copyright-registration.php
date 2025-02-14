@@ -11,7 +11,7 @@ include "inculude/header.php";
 <h1 class="h1-title">Copyright Registration</h1>
 </div>
 <ul class="breadcrumbs">
-<li><a href="index-2.html" title="">Home<i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
+<li><a href="index.php" title="">Home<i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
 <li><a href="#" title="">Company Branding<i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
 <li><a href="iso-registration.html" title="">Copyright Registration</a></li>
 </ul>
@@ -47,7 +47,7 @@ include "inculude/header.php";
 </div>
 <div class="col-md-5">
 <div class="title-section left">
-<img src="images/services/copyright-registration-flow.jpg" alt="copyright-registration">
+<img src="images/services/RPASSo.jpg" alt="copyright-registration">
 </div>
 </div>
 </div>

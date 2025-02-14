@@ -11,7 +11,7 @@ include "inculude/header.php";
 <h1 class="h1-title">Property Registration</h1>
 </div>
 <ul class="breadcrumbs">
-<li><a href="index-2.html" title="">Home<i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
+<li><a href="index.php" title="">Home<i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
 <li><a href="#" title="">Legal Services<i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
 <li><a href="property-registration.html" title="">Property Registration</a></li>
 </ul>

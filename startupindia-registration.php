@@ -10,7 +10,7 @@ include "inculude/header.php";
 <h1 class="h1-title">Startup India Registration</h1>
 </div>
 <ul class="breadcrumbs">
-<li><a href="index-2.html" title="">Home<i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
+<li><a href="index.php" title="">Home<i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
 <li><a href="#" title="">Company Branding<i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
 <li><a href="startupindia-registration.html" title="">Startup India Registration</a></li>
 </ul>
@@ -44,7 +44,7 @@ include "inculude/header.php";
 
 <div class="col-md-5">
 <div class="title-section left"><br>
-<img src="images/services/img-9.jpg"alt="img28">
+<img src="images/services/rpassa.jpg"alt="img28">
 </div>
 </div>
 </div>

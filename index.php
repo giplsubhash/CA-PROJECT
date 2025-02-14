@@ -62,7 +62,7 @@ include "inculude/header.php";
 Our experienced team guides you through every step of the process, ensuring that all legal requirements are met and that your marriage is officially recognized.  
 </div>
 <div class="imagebox-button">
-<a href="marriage-registration.php" title="marriage-registration">read more</a>
+<a href="index.php" title="marriage-registration">read more</a>
 </div>
 </div>
 </div>
@@ -82,7 +82,7 @@ Our experienced team guides you through every step of the process, ensuring that
 Our expert legal team is dedicated to helping you navigate the complexities of corporate law, ensuring that your business operations are compliant, efficient, and protected. 
 </div>
 <div class="imagebox-button">
-<a href="legal-drafting.php" title="legal-drafting">read more</a>
+<a href="index.php" title="legal-drafting">read more</a>
 </div>
 </div>
 </div>
@@ -103,7 +103,7 @@ Our expert legal team is dedicated to helping you navigate the complexities of c
 Our experienced legal team is committed to delivering strong, effective representation to ensure the best possible outcome for your case.
 </div>
 <div class="imagebox-button">
-<a href="criminal-law.php" title="criminal-law">read more</a>
+<a href="index.php" title="criminal-law">read more</a>
 </div>
 </div>
 </div>
@@ -118,7 +118,7 @@ Our experienced legal team is committed to delivering strong, effective represen
 <div class="row">
 <div class="col-md-12">
 <div class="title-section left">
-<h2>Our Legal Services</h2>
+<h2>Our Services</h2>
 </div>
 </div>
 </div>
@@ -130,11 +130,11 @@ Our experienced legal team is committed to delivering strong, effective represen
 <div class="icon-rounded ion-clipboard">
 </div>
 <div class="box-title">
-<a href="https://en.wikipedia.org/wiki/Dishonoured_cheque" title="Cheque Bounce">Cheque Bounce</a>
+<a href="https://en.wikipedia.org/wiki/Dishonoured_cheque" title="Cheque Bounce">ISO Registration</a>
 </div>
 </div>
 <div class="box-content">
-Legal assistance for cases involving dishonored cheques, ensuring your rights are protected and appropriate actions are taken.
+In today's competitive market, businesses that are known for their reliability tend to attract more customers. ISO certification can offer significant advantages to a company, including increased market value, higher profits,
 </div>
 </div>
 </div>
@@ -162,11 +162,11 @@ Expert guidance and representation Could you clarify what you mean by "TDS retur
 <div class="icon-rounded clock">
 </div>
 <div class="box-title">
-<a href="https://en.wikipedia.org/wiki/Warrant_(law)" title="Warrant Recall">Warrant Recall</a>
+<a href="https://en.wikipedia.org/wiki/Warrant_(law)" title="Warrant Recall">Copyright Registration</a>
 </div>
 </div>
 <div class="box-content">
-Assistance in recalling warrants issued by courts, facilitating legal proceedings and mitigating potential consequences.
+Copyright is the legal entitlement granted to creators of music, art, literature, movies, and software. It safeguards and incentivizes their creative endeavors by conferring exclusive rights.
 </div>
 </div>
 </div>
@@ -185,11 +185,11 @@ Assistance in recalling warrants issued by courts, facilitating legal proceeding
 <div class="icon-rounded magic">
 </div>
 <div class="box-title">
-<a href="https://en.wikipedia.org/wiki/Bail" title="Bail Criminal">Bail Criminal</a>
+<a href="#" title="Bail Criminal">Startup India Registration</a>
 </div>
 </div>
 <div class="box-content">
-Dedicated support and representation for securing bail in criminal cases, safeguarding your liberty and rights under the law.
+India’s startup scene is thriving, witnessing a surge in young entrepreneurs each year. With a supportive government backing, startups contribute significantly to the nation’s economic growth. 
 </div>
 </div>
 </div>
@@ -242,11 +242,12 @@ Reliable assistance in drafting and notarizing affidavits for various legal purp
 <div class="icon-rounded ion-clipboard">
 </div>
 <div class="box-title">
-<a href="https://en.wikipedia.org/wiki/Legal_advice" title="Best Legal Advice">Best Legal Advice</a>
+<a href="#" title="Best Legal Advice">Proprietorship Company Registration</a>
 </div>
 </div>
 <div class="box-content">
-Access to top-notch legal advice from experienced professionals, tailored to your specific situation and legal needs.
+RP Associates offers comprehensive services for proprietorship company registration,
+ guiding you through every step to ensure a smooth and hassle-free process. With their expertise, you can establish your proprietorship firm in Kolkata quickly and efficiently
 </div>
 </div>
 </div>
@@ -297,11 +298,11 @@ Advocacy and representation in child custody matters, ensuring the best interest
 <div class="icon-rounded magic">
 </div>
 <div class="box-title">
-<a href="#" title="Criminal Law">Criminal Law</a>
+<a href="#" title="Criminal Law">LLP Company Registration</a>
 </div>
 </div>
 <div class="box-content">
-Comprehensive legal services for criminal law matters, including defense representation and advocacy in court.
+Within India, the Limited Liability Partnership (LLP) holds an established status as a corporate business structure, offering significant advantages like limited liability for partners and reduced compliance expenses.
 </div>
 </div>
 </div>
@@ -313,11 +314,11 @@ Comprehensive legal services for criminal law matters, including defense represe
 <div class="icon-rounded artboard">
 </div>
 <div class="box-title">
-<a href="#" title="Family Law">Family Law</a>
+<a href="#" title="Family Law">Trade License Registration</a>
 </div>
 </div>
 <div class="box-content">
-Expertise in family law matters, including divorce, adoption, guardianship, and inheritance issues.  
+Securing a trade license registration is a critical step when engaging in business activities and ensuring adherence to municipal laws established by the state government. It is a mandatory requirement for conducting business, and failure to register can result in substantial fines or even the dissolution of your business.   
 </div>
 </div>
 </div>
@@ -329,11 +330,11 @@ Expertise in family law matters, including divorce, adoption, guardianship, and 
 <div class="icon-rounded global">
 </div>
 <div class="box-title">
-<a href="#" title="Cyber Crime Law">Cyber Crime Law</a>
+<a href="#" title="Cyber Crime Law">Trade Mark Registration</a>
 </div>
 </div>
 <div class="box-content">
-Specialized legal assistance for victims and defendants involved in cybercrime cases, ensuring fair treatment and protection of rights.
+A trademark serves as a valuable intangible asset that builds investor confidence and supports business growth. It is essential to meet specific requirements when registering a business.
 </div>
 </div>
 </div>
@@ -355,11 +356,12 @@ Specialized legal assistance for victims and defendants involved in cybercrime c
 <div class="icon-rounded magic">
 </div>
 <div class="box-title">
-<a href="#" title="Company Law">Company Law</a>
+<a href="#" title="Company Law">PVT. LTD. Company Closure</a>
 </div>
 </div>
 <div class="box-content">
-Guidance and compliance services for company law matters, ensuring adherence to legal regulations and corporate governance standards.
+Private Limited Company closure in Kolkata involves adhering to a well-defined legal process to ensure compliance with the Companies Act. The closure can be done through
+ voluntary strike-off if the company is inactive or through liquidation in case of outstanding debts.
 </div>
 </div>
 </div>
@@ -387,11 +389,11 @@ Negotiation and settlement services for debt-related disputes, facilitating mutu
 <div class="icon-rounded global">
 </div>
 <div class="box-title">
-<a href="#" title="Lok Adalat Matters">Lok Adalat Matters</a>
+<a href="#" title="Lok Adalat Matters">Proprietorship Company Registration</a>
 </div>
 </div>
 <div class="box-content">
-Representation and advocacy in Lok Adalat proceedings, promoting alternative dispute resolution and timely resolution of disputes.
+RP Associates offers comprehensive services for proprietorship company registration, guiding you through every step to ensure a smooth and hassle-free process. With their expertise, you can establish your proprietorship firm in Kolkata quickly and efficiently.
 </div>
 </div>
 </div>
@@ -412,11 +414,11 @@ Representation and advocacy in Lok Adalat proceedings, promoting alternative dis
 <div class="icon-rounded ion-clipboard">
 </div>
 <div class="box-title">
-<a href="#" title="Top lawyers for IP registration & infringement petition">Top lawyers for IP registration & infringement petition</a>
+<a href="#" title="Top lawyers for IP registration & infringement petition">Public Limited Company Registration</a>
 </div>
 </div>
 <div class="box-content">
-Access to top legal talent for intellectual property registration and infringement petitions, safeguarding your intellectual assets.  
+In accordance with the regulations outlined in the Companies Act of 2013, a Public Limited company is formally recognized as a corporate entity that holds limited liability and is authorized to issue shares to the general public. 
 </div>
 </div>
 </div>
@@ -557,11 +559,12 @@ Insurance Claims: Assistance in navigating insurance claim processes, ensuring f
 <div class="icon-rounded clock">
 </div>
 <div class="box-title">
-<a href="#" title="Loan/Credit Card Disputes">Loan/Credit Card Disputes</a>
+<a href="#" title="Loan/Credit Card Disputes">Section 8 Company Registration</a>
 </div>
 </div>
 <div class="box-content">
-Legal representation and advocacy for disputes related to loans and credit cards, ensuring fair treatment and resolution.
+A Section 8 company is a business structure established to further causes such as arts, science, education, charity, and more, in accordance with the provisions of
+ the 2013 Companies Act. Its primary objective revolves around advancing non-profit purposes.
 </div>
 </div>
 </div>

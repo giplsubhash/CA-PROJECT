@@ -11,9 +11,9 @@ include "inculude/header.php";
 <h1 class="h1-title">ISO Registration</h1>
 </div>
 <ul class="breadcrumbs">
-<li><a href="index-2.html" title="">Home<i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
+<li><a href="index.php" title="">Home<i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
 <li><a href="#" title="">Company Branding<i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
-<li><a href="iso-registration.html" title="">ISO Registration</a></li>
+<li><a href="iso-registration.php" title="">ISO Registration</a></li>
 </ul>
 <div class="clearfix"></div>
 </div>

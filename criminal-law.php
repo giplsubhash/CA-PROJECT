@@ -11,7 +11,7 @@ include "inculude/header.php";
 <h1 class="h1-title">Criminal Law</h1>
 </div>
 <ul class="breadcrumbs">
-<li><a href="index-2.html" title="link67">Home<i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
+<li><a href="index.php" title="link67">Home<i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
 <li><a href="#" title="link68">Legal Services<i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
 <li><a href="criminal-law.html" title="link69">Criminal Law</a></li>
 </ul>

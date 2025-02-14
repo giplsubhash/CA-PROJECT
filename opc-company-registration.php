@@ -11,9 +11,9 @@ include "inculude/header.php";
 <h1 class="h1-title">OPC Company Registration</h1>
 </div>
 <ul class="breadcrumbs">
-<li><a href="index-2.html" title="">Home<i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
+<li><a href="index.php" title="">Home<i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
 <li><a href="#" title="">CA Services<i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
-<li><a href="iso-registration.html" title="">OPC Company Registration</a></li>
+<li><a href="opc-company-registration.php" title="">OPC Company Registration</a></li>
 </ul>
 <div class="clearfix"></div>
 </div>
@@ -36,7 +36,7 @@ include "inculude/header.php";
             </div>
             <div class="col-md-4">
                 <div class="title-section left">
-                    <img src="" alt="RP Company Registration Process">
+                    <img src="images/services/rpassa.jpg" alt="RP Company Registration Process">
                 </div>
             </div>
         </div>

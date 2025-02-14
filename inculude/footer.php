@@ -5,9 +5,9 @@
 <div class="col-md-12">
 <div class="widget-infomation">
 <ul class="infomation-footer">
-<li><i class="fa fa-envelope" aria-hidden="true"></i><a href="#" title="link24"><span class="__cf_email__" data-cfemail="7c0f090c0c130e083c08141911190f1a101d08521f1311">rahul.bhakat@rpassociates.com</span></a></li>
-<li><i class="fa fa-phone" aria-hidden="true"></i><a href="#" title="link25">9038001356</a></li>
-<li><i class="fa fa-map-marker" aria-hidden="true"></i><a href="#" title="link26">4 Fairlie Place, 5th Floor, Kolkata 700 001, W.B. IN</a></li>
+<li><i class="fa fa-envelope" aria-hidden="true"></i><a href="#" title="link24"><span class="__cf_email__" data-cfemail="7c0f090c0c130e083c08141911190f1a101d08521f1311">rpassociatestaxcon@gmail.com</span></a></li>
+<li><i class="fa fa-phone" aria-hidden="true"></i><a href="#" title="link25">9073639892 &nbsp 03345011633</a></li>
+<li><i class="fa fa-map-marker" aria-hidden="true"></i><a href="#" title="link26">Rakesh Pandey Govind Bhawan 1st Floor,Room no.1F 2-Brabourne Road,Kolkata-700001</a></li>
 </ul>
 </div>
 </div>

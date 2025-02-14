@@ -72,8 +72,8 @@
 <script src="Register%20A%20Company%20-%20Company%20Registration%20Process%20-%20Company%20Registration_files/leadflows.php" type="text/javascript" id="LeadFlows-4290887" crossorigin="anonymous" data-leadin-portal-id="4290887" data-leadin-env="prod" data-loader="hs-scriptloader" data-hsjs-portal="4290887" data-hsjs-env="prod"></script>
 <script src="Register%20A%20Company%20-%20Company%20Registration%20Process%20-%20Company%20Registration_files/collectedforms.php" type="text/javascript" id="CollectedForms-4290887" crossorigin="anonymous" data-leadin-portal-id="4290887" data-leadin-env="prod" data-loader="hs-scriptloader" data-hsjs-portal="4290887" data-hsjs-env="prod"></script>
 <script async src="Register%20A%20Company%20-%20Company%20Registration%20Process%20-%20Company%20Registration_files/default.php" charset="UTF-8" crossorigin="*"></script>
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/www.sujataassociates.com\/","name":"Company Registration Process - Company Registration","potentialAction":{"@type":"SearchAction","target":"https:\/\/www.sujataassociates.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Organization","url":"https:\/\/www.sujataassociates.com\/","sameAs":["https:\/\/www.facebook.com\/pg\/Sujata-Associates-1512741178941745","https:\/\/twitter.com\/sujata4company"],"@id":"#organization","name":"Sujata Associates Consultancy Pvt Ltd","logo":"https:\/\/www.sujataassociates.com\/wp-content\/uploads\/2018\/04\/our_site_logo.png"}</script>
+<!-- <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/www.sujataassociates.com\/","name":"Company Registration Process - Company Registration","potentialAction":{"@type":"SearchAction","target":"https:\/\/www.sujataassociates.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Organization","url":"https:\/\/www.sujataassociates.com\/","sameAs":["https:\/\/www.facebook.com\/pg\/Sujata-Associates-1512741178941745","https:\/\/twitter.com\/sujata4company"],"@id":"#organization","name":"Sujata Associates Consultancy Pvt Ltd","logo":"https:\/\/www.sujataassociates.com\/wp-content\/uploads\/2018\/04\/our_site_logo.png"}</script> -->
 
 <!-- Stylesheets Start -->
 
@@ -206,8 +206,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="row">
 <div class="col-md-12">
 <ul class="flat-infomation">
-<li class="phone">Call us: <a href="tel:+919038001356" title="phone">9984087027 </a></li>
-<li class="email">Email: <a href="mailto:rahul.bhakat@sujataassociates.com" title="email"><span class="__cf_email__" data-cfemail="10636560607f626422243d2750777d71797c3e737f7d">gipl@gmail.com</span>
+<li class="phone">Call us: <a href="tel:+919038001356" title="phone">9073639892  &nbsp 03345011633 </a></li>
+<li class="email">Email: <a href="mailto:rpassociatestaxcon@gmail.com" title="email"><span class="__cf_email__" data-cfemail="10636560607f626422243d2750777d71797c3e737f7d">rpassociatestaxcon@gmail.com</span>
 </a></li>
 </ul>
 <!-- <div class="flat-questions">
