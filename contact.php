@@ -26,12 +26,17 @@ include "inculude/header.php";
 <div class="col-md-4">
 <div class="contact-info">
 <div class="info info-address">
-<div class="title">Address</div>
-<p>4 Fairlie Place, 5th Floor, Kolkata 700 001<br>West Bengal, India</p>
+<div class="title"> Office Address</div>
+<p>
+Rakesh Pandey
+Govind Bhawan
+1st  Floor, Room no.<br>  1F
+2, Brabourne Road,
+Kolkata-700001</p>
 </div>
 <div class="info info-address">
 <div class="title">Phone number</div>
-<p>Call us: 903 800 1356</p>
+<p>Call us: 9984087027</p>
 </div>
 <div class="info info-address">
 <div class="title">E-mail address</div>
@@ -62,7 +67,7 @@ include "inculude/header.php";
 </div>
 </section>
 
-<section class="flat-row flat-progress-accordion bg-theme">
+<!-- <section class="flat-row flat-progress-accordion bg-theme">
 	<div class="container">
 <div class="row">
 <div class="col-md-12">
@@ -128,11 +133,11 @@ include "inculude/header.php";
 </div>
 </div>
 </div>
-</section>
+</section> -->
 
-<section class="flat-row pdmap">
+<!-- <section class="flat-row pdmap">
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3684.101226406446!2d88.34561911540146!3d22.575317038559163!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a0277d96721b9ed%3A0x4af1b992d24e60dd!2sRP%20Associates!5e0!3m2!1sen!2sin!4v1666253275195!5m2!1sen!2sin" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</section>
+</section> -->
 
 <script>
     // Function to load the header HTML using AJAX

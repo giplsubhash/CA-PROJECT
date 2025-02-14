@@ -9,7 +9,7 @@ include "inculude/header.php";
             <h2 ><a href="index.php"> <img src="images/rp bainner.jpg" loading="lazy" alt="logo My Business"></a></h2>
         
             <div class="content">
-                <h1>Best Company Registration in Kolkata</h1>
+                <h1></h1>
                 <p></p>
                 <div class="">
                     <a href="contact.html" class="btn" title=""></a>
@@ -20,7 +20,7 @@ include "inculude/header.php";
 
         <h2 ><a href="index.php"> <img src="images/rp bainneer.jpg" loading="lazy" alt="logo My Business"></a></h2>
         <div class="content">
-               <h2>Best Company Registration in Kolkata</h2>
+               <h2></h2>
                <p></p>
                <!-- <div class="">
                     <a href="contact" class="btn" title="get in touch"></a>
@@ -52,10 +52,10 @@ include "inculude/header.php";
 <div class="imagebox-item">
 <div class="imagebox style1">
 <div class="imagebox-image">
-<img src="images/services/WEBSITE-BANNER-01.webp"  alt="img-59">
+<img src="images/regiss.png"  alt="img-59">
 </div>
 <div class="imagebox-title">
-<h2><a href="private-limited-company-registration.html" title="Marriage Registration">Marriage Registration </a></h2>
+<h2><a href="index.php" title="Marriage Registration">Registration Services </a></h2>
 </div>
 <div class="imagebox-content">
 <div class="imagebox-desc">
@@ -72,10 +72,10 @@ Our experienced team guides you through every step of the process, ensuring that
 <div class="imagebox-item">
 <div class="imagebox style1">
 <div class="imagebox-image">
-<img src="images/services/WEBSITE-BANNER-02.webp" alt="img-689">
+<img src="images/regiss12.png" alt="img-689">
 </div>
 <div class="imagebox-title">
-<h2><a href="index.php" title="Corporate Legal Service">Corporate Legal Service</a></h2>
+<h2><a href="index.php" title="Corporate Legal Service">ROC Changes Services</a></h2>
 </div>
 <div class="imagebox-content">
 <div class="imagebox-desc">
@@ -93,10 +93,10 @@ Our expert legal team is dedicated to helping you navigate the complexities of c
 <div class="imagebox-item">
 <div class="imagebox style1">
 <div class="imagebox-image">
-<img src="images/services/WEBSITE-BANNER-03.webp" alt="img-66">
+<img src="images/regisa.png" alt="img-66">
 </div>
 <div class="imagebox-title">
-<h2><a href="Criminal%20Legal%20Services.php" title="Criminal Legal Services">Criminal Legal Services</a></h2>
+<h2><a href="index.php" title="Criminal Legal Services">Licensing Services</a></h2>
 </div>
 <div class="imagebox-content">
 <div class="imagebox-desc">
@@ -146,11 +146,11 @@ Legal assistance for cases involving dishonored cheques, ensuring your rights ar
 <div class="icon-rounded line-chart">
 </div>
 <div class="box-title">
-<a href="https://en.wikipedia.org/wiki/Loan" title="Bank loan EMI default">Bank loan EMI default</a>
+<a href="https://en.wikipedia.org/wiki/Loan" title="Bank loan EMI default">TDs Return</a>
 </div>
 </div>
 <div class="box-content">
-Expert guidance and representation to navigate the complexities of defaulting on bank loan EMIs, minimizing legal repercussions.
+Expert guidance and representation Could you clarify what you mean by "TDS return contents"? Are you referring to the contents of a TDS (Tax Deducted at Source) return filing in India, 
 </div>
 </div>
 </div>
@@ -707,7 +707,7 @@ Company Registration in Kolkata: Our all-inclusive assistance spans the complete
 </div>
 </section>
 
-<section class="flat-row flat-callback">
+<!-- <section class="flat-row flat-callback">
 <div class="container">
 <div class="row">
 <div class="col-md-4">
@@ -750,10 +750,10 @@ the same working day.
 </div>
 </div>
 </div>
-</section>
+</section> -->
 
 
-<section class="flat-row flat-testimonials">
+<!-- <section class="flat-row flat-testimonials">
 <div class="container">
 <div class="row">
 <div class="flat-testimonials-title center">
@@ -970,7 +970,7 @@ Director of, Fadhel Impex Pvt. Ltd.
 </div>
 </div> 
 </article>
-</li>
+</li> -->
 
 <!--<li class="item">-->
 <!--<article class="testimonials-post">-->
@@ -1077,7 +1077,7 @@ Director of, Fadhel Impex Pvt. Ltd.
 <!--</article>-->
 <!--</li>-->
 
-<li class="item">
+<!-- <li class="item">
 <article class="testimonials-post">
 <div class="featured-post">
 <img src="images/testimonials/MAN%20AVATAR%202.webp" alt="" height="100px" width="100px">
@@ -1138,9 +1138,9 @@ Director of, SMGA GLOBAL INDUSTRIES PRIVATE LIMITED .
 </div>
 </div> 
 </article>
-</li>
+</li> -->
 
-<li class="item">
+<!-- <li class="item">
 <article class="testimonials-post">
 <div class="featured-post">
 <img src="images/testimonials/MAN%20AVATAR%202.webp" alt="" height="100px" width="100px">
@@ -1286,8 +1286,8 @@ Director of, Agroplaza Smart Farming And Trading Private Limited
 </div>
 </div> 
 </article>
-</li>
-
+</li> -->
+<!-- 
 </ul>
 </div>
 </div>
@@ -1336,7 +1336,7 @@ Director of, Agroplaza Smart Farming And Trading Private Limited
 </div> 
 </div> 
 </div> 
-</section> 
+</section>  -->
 
 <!-- footer start -->
 

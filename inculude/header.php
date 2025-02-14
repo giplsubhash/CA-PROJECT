@@ -10,7 +10,7 @@
 
 <meta charset="UTF-8">
 <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
-<title>RP ASSOCIATED</title>
+<title>RP ASSOCIATES</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Business registration Kolkata,Our Company stands as a prominent online service provider assisting business. and company registration services in Kolkatta, India">
 <meta name="google-site-verification" content="4V5nX_4TM0i7yj_JxtsTxvggqvmGasVMMyuvfKIHuDw" />
@@ -227,7 +227,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="header-wrap">
 <div class="col-md-2">
 <div>
-<h2 ><a href="index.php"> <img src="images/RPLOGO.jpg" loading="" alt="logo My Business"></a></h2>
+<h2 ><a href="index.php"> <img src="images/rgbnew.png" loading="" alt="logo My Business"></a></h2>
 </div>
 </div>
 <div class="col-md-10">

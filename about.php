@@ -42,7 +42,7 @@ include "inculude/header.php";
 <div class="col-md-9 content-tab">
 <div class="content-inner">
 <div class="wrap-main-post about-v3">
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/S7hEteiHdSs?si=pHXje9iP4isuQ02q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- <iframe width="100%" height="315" src="https://www.youtube.com/embed/S7hEteiHdSs?si=pHXje9iP4isuQ02q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
 <div class="box-content">
 <div class="title">Want to know more about RP Associates?</div>
 
