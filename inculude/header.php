@@ -226,8 +226,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="row">
 <div class="header-wrap">
 <div class="col-md-2">
-<div id="logo" class="logo">
-<h2 ><a href="index.php"> <img src="images/RPLOGO.jpg" loading="lazy" alt="logo My Business"></a></h2>
+<div>
+<h2 ><a href="index.php"> <img src="images/RPLOGO.jpg" loading="" alt="logo My Business"></a></h2>
 </div>
 </div>
 <div class="col-md-10">
