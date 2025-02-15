@@ -8,12 +8,12 @@ include "inculude/header.php";
 <div class="row">
 <div class="col-md-12">
 <div class="page-title-heading">
-<h1 class="h1-title">Company Registration in USA</h1>
+<h1 class="h1-title">Digital sign</h1>
 </div>
 <ul class="breadcrumbs">
 <li><a href="index.php" title="">Home<i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
-<li><a href="#" title="">Company Branding<i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
-<li><a href="iso-registration.html" title="">Company Registration in USA</a></li>
+<li><a href="#" title="">Other Services<i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
+<li><a href="company-registration-usa.php" title="">Digital sign</a></li>
 </ul>
 <div class="clearfix"></div>
 </div>
@@ -26,24 +26,28 @@ include "inculude/header.php";
 <div class="row">
 <div class="col-md-7">
 <div class="title-section left">
-<p align="justify">The United States of America is distinguished by its multicultural atmosphere, making it highly welcoming to international businesses. Its expansive and user-friendly business landscape accommodates companies from around the world. The country boasts a sophisticated framework of regulations and business practices, complemented by favorable corporate tax rates. Its advanced technology, infrastructure, and abundant natural resources solidify its position as an economic powerhouse. Our services streamline the online registration process, ensuring completion within a week, eliminating the need for in-person travel, and greatly simplifying the procedure. <br> <p> </p>
+<p align="justify">A digital sign of content refers to a display system used for showcasing dynamic, digital information such as advertisements, announcements, schedules, or other types of media. These displays are often used in places like stores, airports, museums, or public spaces to engage audiences with relevant or real-time content.
 
-RP Associates is a company with a team of highly skilled professionals capable of guiding you through the USA registration process. Our business operates effectively in the global economy, offering a comprehensive range of services crucial for launching and managing businesses. We provide an array of services within India, including startup consulting and private limited company formation. Additionally, we offer services for various overseas registrations, including business registration in the UK, Bangladesh, Sri Lanka, and China. With the assistance of our professionals, you can attain your goals in the business sector.</p>
+Digital signs typically use technologies like LCD, LED, or projection to display content, and they can be controlled remotely to update or schedule the information they show. Digital signage is often integrated with software to manage and schedule content efficiently.
+
+Would you like to know about any specific types of digital signs, or are you looking for examples or tips on how to use them effectively.Agar aap digital sign ke liye document ki baat kar rahe hain, toh aapko kuch basic steps follow karne padte hain. Digital signature ko apply karna typically ek simple process hai, lekin uske liye aapko ek valid digital signature certificate ki zarurat hoti hai.
+
+Yeh hai steps jo aapko follow karne padenge:</p>
 <br>
 <p align="justify"></p>
 <br>
 <p align="justify"> <u>PROCESS:-</u></p><br>
-<li>Find a right name for your company</li>
-<li>Choose a right business structure</li>
-<li>Provide the legal ID proofs of the Director</li>
-<li>Purchase the service online or offline</li>
-<li>Provide some information about company and we will do the rest</li>
+<li>Aapko ek valid Digital Signature Certificate (DSC) lena hoga. Yeh certificate aapke identity ko verify karta hai.</li>
+<li>DSC ko aap certified authorities (like eMudhra, Sify, or other providers) se le sakte hain.</li>
+<li>Certificate ke saath aapko ek private key aur public key milegi.</li>
+<li>Aapko jo document sign karna hai, usse PDF, Word, ya koi aur format mein prepare karna hoga.</li>
+<li>Agar aap PDF document sign kar rahe hain, toh Adobe Acrobat Reader ya koi aur document signing tool ka use kar sakte hain.</li>
 <br>
 </div>
 </div>
 <div class="col-md-5">
 <div class="title-section left">
-<img src="images/services/USA.jpg">
+<img src="images/services/rpdigs.jpg">
 </div>
 </div>
 </div>

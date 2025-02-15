@@ -250,13 +250,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <nav id="mainnav" class="mainnav">
 <ul class="menu">
 <li><a href="index.php" title="Home">Home</a></li>
-<li>
-<a href="#" title="link20">Company <i class="fa fa-angle-down" aria-hidden="true"></i></a>
-<ul class="sub-menu">
-<li><a href="about.php" title="link21">About us</a></li>
-<li><a href="contact.php" title="link22">Contact us </a></li>
-</ul>
-</li>
 <!-- <li>
 <a href="#" title="link1">Legal Services <i class="fa fa-angle-down" aria-hidden="true"></i></a>
 <ul class="sub-menu">
@@ -268,7 +261,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </ul>
 </li> -->
 <li class="dropdown">
-<a href="#" title="link5">CA Services <i class="fa fa-angle-down" aria-hidden="true"></i></a>
+<a href="#" title="link5">Services <i class="fa fa-angle-down" aria-hidden="true"></i></a>
 <ul class="menu-area">
 <ul>
 	<h3><b>Registration Services</b></h3>
@@ -324,7 +317,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <a href="#" title="link88">Company Branding <i class="fa fa-angle-down" aria-hidden="true"></i></a>
 <ul class="sub-menu">
 <li><a href="trade-mark-registration.php" title="link7">Trade Mark Registration</a></li>
-<li><a href="barcode-registration.php" title="link8">Barcode Registration</a></li>
+<!-- <li><a href="barcode-registration.php" title="link8">Barcode Registration</a></li> -->
 <li><a href="iso-registration.php" title="link9">ISO Registration</a></li>
 <li><a href="copyright-registration.php" title="link10">Copyright Registration</a></li>
 <li><a href="patent-registration.php" title="link11">Patent Registration</a></li>
@@ -334,16 +327,22 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <li>
 <a href="#" title="link13">Other Services <i class="fa fa-angle-down" aria-hidden="true"></i></a>
 <ul class="sub-menu">
-<li><a href="company-registration-usa.php" title="link14">Company Registration in USA</a></li>
-<li><a href="company-registration-uk.php" title="link15">Company Registration in UK</a></li>
-<li><a href="company-registration-bangladesh.php" title="link16">Company Registration in Bangladesh</a></li>
-<li><a href="company-registration-srilanka.php" title="link17">Company Registration in Sri Lanka</a></li>
-<li><a href="company-registration-china.php" title="link17">Company Registration in China</a></li>
-<li><a href="web-services.php" title="link18">Web Services</a></li>
-<li><a href="hospital-project-management.php" title="link19">Hospital Project Management</a></li>
+<li><a href="company-registration-usa.php" title="link14">Digital sign</a></li>
+<li><a href="company-registration-uk.php" title="link15">Msme Registration</a></li>
+<li><a href="company-registration-bangladesh.php" title="link16">Import Export License</a></li>
+<li><a href="company-registration-srilanka.php" title="link17">Book Keeping</a></li>
+<li><a href="company-registration-china.php" title="link17">Firm Registration</a></li>
+<!-- <li><a href="web-services.php" title="link18">Web Services</a></li>
+<li><a href="hospital-project-management.php" title="link19">Hospital Project Management</a></li> -->
 </ul>
 </li>
-
+<!-- <li>
+<a href="#" title="link20">Company <i class="fa fa-angle-down" aria-hidden="true"></i></a>
+<ul class="sub-menu">
+<li><a href="about.php" title="link21">About us</a></li>
+<li><a href="contact.php" title="link22">Contact us </a></li>
+</ul>
+</li> -->
 </ul>
 </nav>
 </div>

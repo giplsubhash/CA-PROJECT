@@ -16,7 +16,7 @@
 <div class="col-md-4">
 <img src="images/rploggo.png" alt="logo My Business">
 <div class="widget widget-text">
-<p>RP Associates Consultancy Pvt Ltd stands as a prominent online service provider facilitating company registration in India. Our expertise lies in delivering extensive consultancy services to companies, both within the country and overseas. By harnessing the power of technology, we have devised a seamless approach that simplifies the completion of governmental and legal formalities. These processes are consolidated within a user-friendly platform, offering utmost convenience to our clients.</p>
+<p>RP Associates.info stands as a prominent online service provider facilitating company registration in India. Our expertise lies in delivering extensive consultancy services to companies, both within the country and overseas. By harnessing the power of technology, we have devised a seamless approach that simplifies the completion of governmental and legal formalities. These processes are consolidated within a user-friendly platform, offering utmost convenience to our clients.</p>
 </div>
 </div>
 <div class="col-md-4">

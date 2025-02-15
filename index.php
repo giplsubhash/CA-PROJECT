@@ -126,7 +126,7 @@ A trademark serves as a valuable intangible asset that builds investor confidenc
 <div class="col-md-4">
 <div class="iconbox-item">
 <div class="iconbox style1">
-<div class="box-header">
+<div class="box-header">                                                                                                                        2
 <div class="icon-rounded ion-clipboard">
 </div>
 <div class="box-title">
@@ -262,11 +262,11 @@ RP Associates offers comprehensive services for proprietorship company registrat
 <div class="icon-rounded line-chart">
 </div>
 <div class="box-title">
-<a href="#" title="seperationanddivorce">Separation & Divorce</a>
+<a href="#" title="Preparation of sale/rent/mortgage/lease deeds">Preparation of sale/rent/mortgage/lease deeds</a>
 </div>
 </div>
 <div class="box-content">
-Compassionate guidance and legal support for navigating separation and divorce proceedings, prioritizing your well-being and rights.  
+Assistance in drafting and preparing legal documents for property transactions, ensuring clarity and enforceability of terms.
 </div>
 </div>
 </div>
@@ -375,14 +375,14 @@ Private Limited Company closure in Kolkata involves adhering to a well-defined l
 <div class="iconbox-item">
 <div class="iconbox style1">
 <div class="box-header">
-<div class="icon-rounded artboard">
+<div class="icon-rounded ion-clipboard">
 </div>
 <div class="box-title">
-<a href="#" title="Debt Settlement">Debt Settlement</a>
+<a href="#" title="Top lawyers for IP registration & infringement petition">Public Limited Company Registration</a>
 </div>
 </div>
 <div class="box-content">
-Negotiation and settlement services for debt-related disputes, facilitating mutually acceptable resolutions. 
+In accordance with the regulations outlined in the Companies Act of 2013, a Public Limited company is formally recognized as a corporate entity that holds limited liability and is authorized to issue shares to the general public. 
 </div>
 </div>
 </div>
@@ -412,38 +412,7 @@ RP Associates offers comprehensive services for proprietorship company registrat
 </div>
 </div>
 <div class="row">
-<div class="col-md-4">
-<div class="iconbox-item">
-<div class="iconbox style1">
-<div class="box-header">
-<div class="icon-rounded ion-clipboard">
-</div>
-<div class="box-title">
-<a href="#" title="Top lawyers for IP registration & infringement petition">Public Limited Company Registration</a>
-</div>
-</div>
-<div class="box-content">
-In accordance with the regulations outlined in the Companies Act of 2013, a Public Limited company is formally recognized as a corporate entity that holds limited liability and is authorized to issue shares to the general public. 
-</div>
-</div>
-</div>
-</div>
-<div class="col-md-4">
-<div class="iconbox-item">
-<div class="iconbox style1">
-<div class="box-header">
-<div class="icon-rounded line-chart">
-</div>
-<div class="box-title">
-<a href="#" title="Preparation of sale/rent/mortgage/lease deeds">Preparation of sale/rent/mortgage/lease deeds</a>
-</div>
-</div>
-<div class="box-content">
-Assistance in drafting and preparing legal documents for property transactions, ensuring clarity and enforceability of terms.
-</div>
-</div>
-</div>
-</div>
+
 <div class="col-md-4">
 <div class="iconbox-item">
 <div class="iconbox style1">
@@ -451,11 +420,12 @@ Assistance in drafting and preparing legal documents for property transactions, 
 <div class="icon-rounded clock">
 </div>
 <div class="box-title">
-<a href="#" title="Negotiation during sale of property">Negotiation during sale of property</a>
+<a href="#" title="Loan/Credit Card Disputes">Section 8 Company Registration</a>
 </div>
 </div>
 <div class="box-content">
-Skilled negotiation services during property transactions, maximizing value and protecting your interests.
+A Section 8 company is a business structure established to further causes such as arts, science, education, charity, and more, in accordance with the provisions of
+ the 2013 Companies Act. Its primary objective revolves around advancing non-profit purposes.
 </div>
 </div>
 </div>
@@ -466,7 +436,7 @@ Skilled negotiation services during property transactions, maximizing value and 
 <div class="height80"></div>
 </div>
 </div>
-<div class="row">
+<!-- <div class="row">
 <div class="col-md-4">
 <div class="iconbox-item">
 <div class="iconbox style1">
@@ -556,25 +526,8 @@ Insurance Claims: Assistance in navigating insurance claim processes, ensuring f
 </div>
 </div>
 </div>
-</div>
-<div class="col-md-4">
-<div class="iconbox-item">
-<div class="iconbox style1">
-<div class="box-header">
-<div class="icon-rounded clock">
-</div>
-<div class="box-title">
-<a href="#" title="Loan/Credit Card Disputes">Section 8 Company Registration</a>
-</div>
-</div>
-<div class="box-content">
-A Section 8 company is a business structure established to further causes such as arts, science, education, charity, and more, in accordance with the provisions of
- the 2013 Companies Act. Its primary objective revolves around advancing non-profit purposes.
-</div>
-</div>
-</div>
-</div>
-</div>
+</div> -->
+
 </section>
 
 <section class="flat-row parallax parallax1 flat-benefit ">
