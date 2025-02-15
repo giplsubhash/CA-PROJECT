@@ -13,7 +13,7 @@ include "inculude/header.php";
 <ul class="breadcrumbs">
 <li><a href="index.php" title="">Home<i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
 <li><a href="#" title="">Legal Services<i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
-<li><a href="legal-drafting.html" title="">Legal Drafting</a></li>
+<li><a href="#" title="">Legal Drafting</a></li>
 </ul>
 <div class="clearfix"></div>
 </div>
@@ -202,7 +202,7 @@ RP Associates is more than business consulting firm. We aim to work side-by-side
 <div class="icon-rounded clipboard">
 </div>
 <div class="box-title">
-<a href="%27.html#" title="">Constitutional Law Consulting</a>
+<a href="#" title="">Constitutional Law Consulting</a>
 </div>
 </div>
 <div class="box-content">
@@ -218,7 +218,7 @@ It is the largest constitution in the world. Our legal experts have an in-depth 
 <div class="icon-rounded line-chart">
 </div>
 <div class="box-title">
-<a href="%27.html#" title="">Environmental Law Consulting</a>
+<a href="#" title="">Environmental Law Consulting</a>
 </div>
 </div>
 <div class="box-content">
@@ -234,7 +234,7 @@ The increased pollution growth in the environment threatens the humankind. We de
 <div class="icon-rounded clock">
 </div>
 <div class="box-title">
-<a href="%27.html#" title="">Juvenile Law Consulting</a>
+<a href="#" title="">Juvenile Law Consulting</a>
 </div>
 </div>
 <div class="box-content">
@@ -257,7 +257,7 @@ Children laws and the legalities involved with juvenile custody is consulted at 
 <div class="icon-rounded magic">
 </div>
 <div class="box-title">
-<a href="%27.html#" title="">Consumer Law Consulting</a>
+<a href="#" title="">Consumer Law Consulting</a>
 </div>
 </div>
 <div class="box-content">
@@ -273,7 +273,7 @@ Consumer rights and all the consumer courts like national/state commission resea
 <div class="icon-rounded artboard">
 </div>
 <div class="box-title">
-<a href="%27.html#" title="">Immigration Law Consulting</a>
+<a href="#" title="">Immigration Law Consulting</a>
 </div>
 </div>
 <div class="box-content">
@@ -289,7 +289,7 @@ We deal with the citizenship and immigration laws at RP Associates.
 <div class="icon-rounded global">
 </div>
 <div class="box-title">
-<a href="%27.html#" title="">Real Estate Law Consulting</a>
+<a href="#" title="">Real Estate Law Consulting</a>
 </div>
 </div>
 <div class="box-content">

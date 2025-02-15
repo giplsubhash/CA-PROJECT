@@ -13,7 +13,7 @@ include "inculude/header.php";
 <ul class="breadcrumbs">
 <li><a href="index.php" title="">Home<i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
 <li><a href="#" title="">Company Branding<i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
-<li><a href="trade-mark-registration.html" title="">Hospital Project Management</a></li>
+<li><a href="#" title="">Hospital Project Management</a></li>
 </ul>
 <div class="clearfix"></div>
 </div>
@@ -179,7 +179,7 @@ Our Project Management Team will work closely with the Planners, Designers, Equi
 <li>Co-ordination with all contractors and agencies involved.</li>
 <br>
 <p align="justify">We help in designing and establishing your Healthcare Facility to be very Safe for the Patients, their Relatives and the Hospital Staff, Efficient by being Lean & Smart, Environment & Patient Friendly and in Compliance with the Community, meeting all Statutory Requirements, Rules and Regulations.<p><br>
-	<a href="contact.html" target="_self"><button class="mybtn">Contact us now</button></a>
+	<a href="contact.php" target="_self"><button class="mybtn">Contact us now</button></a>
 </div>
 </div>
 </div>

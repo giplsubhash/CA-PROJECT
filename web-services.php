@@ -12,7 +12,7 @@ include "inculude/header.php";
 <ul class="breadcrumbs">
 <li><a href="index.php" title="">Home<i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
 <li><a href="#" title="">Other Services<i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
-<li><a href="iso-registration.html" title="">Web Services</a></li>
+<li><a href="#" title="">Web Services</a></li>
 </ul>
 <div class="clearfix"></div>
 </div>
@@ -222,7 +222,7 @@ RP Associates goes beyond the role of a business consulting firm. Our objective 
 <div class="icon-rounded clipboard">
 </div>
 <div class="box-title">
-<a href="%27.html#" title="">Web Designing consulting</a>
+<a href="#" title="">Web Designing consulting</a>
 </div>
 </div>
 <div class="box-content">
@@ -238,7 +238,7 @@ We provide web services to help to promote your business online.
 <div class="icon-rounded line-chart">
 </div>
 <div class="box-title">
-<a href="%27.html#" title="">Software Consulting</a>
+<a href="#" title="">Software Consulting</a>
 </div>
 </div>
 <div class="box-content">
@@ -254,7 +254,7 @@ We provide web services to help to promote your business online.
 <div class="icon-rounded clock">
 </div>
 <div class="box-title">
-<a href="%27.html#" title="">SEO Consulting</a>
+<a href="#" title="">SEO Consulting</a>
 </div>
 </div>
 <div class="box-content">
@@ -277,7 +277,7 @@ We provide web services to help to promote your business online.
 <div class="icon-rounded magic">
 </div>
 <div class="box-title">
-<a href="%27.html#" title="">Digital Marketing Consulting</a>
+<a href="#" title="">Digital Marketing Consulting</a>
 </div>
 </div>
 <div class="box-content">
@@ -293,7 +293,7 @@ We provide web services to help to promote your business online.
 <div class="icon-rounded artboard">
 </div>
 <div class="box-title">
-<a href="%27.html#" title="">App Development Consulting</a>
+<a href="#" title="">App Development Consulting</a>
 </div>
 </div>
 <div class="box-content">
@@ -309,7 +309,7 @@ We provide web services to help to promote your business online.
 <div class="icon-rounded global">
 </div>
 <div class="box-title">
-<a href="%27.html#" title="">Logo Designing Consulting</a>
+<a href="#" title="">Logo Designing Consulting</a>
 </div>
 </div>
 <div class="box-content">
