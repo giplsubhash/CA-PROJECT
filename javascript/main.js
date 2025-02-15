@@ -725,7 +725,7 @@
       var retina = window.devicePixelRatio > 1 ? true : false;
 
         if(retina) {
-            $('.logo').find('img').attr( {src:'./images/logo@2x.png',width:'161',height:'46'} );   
+            $('.logo').find('img').attr( {src:'../images/rploggo.png',width:'161',height:'46'} );   
         }
     };       
 

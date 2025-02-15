@@ -12,8 +12,8 @@ include "inculude/header.php";
 </div>
 <ul class="breadcrumbs">
 <li><a href="index.php" title="">Home<i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
-<li><a href="#" title="">Other Services<i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
-<li><a href="company-registration-usa.php" title="">Digital sign</a></li>
+<li><a href="#" title="">Company Branding<i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
+<li><a href="#" title="">Company Registration in USA</a></li>
 </ul>
 <div class="clearfix"></div>
 </div>
