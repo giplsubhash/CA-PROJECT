@@ -8,12 +8,12 @@ include "inculude/header.php";
 <div class="row">
 <div class="col-md-12">
 <div class="page-title-heading">
-<h1 class="h1-title">Company Registration in Sri Lanka</h1>
+<h1 class="h1-title">Book Keeping</h1>
 </div>
 <ul class="breadcrumbs">
 <li><a href="index.php" title="">Home<i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
-<li><a href="#" title="">Company Branding<i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
-<li><a href="company-registration-srilanka.php" title="">Company Registration in Sri Lanka</a></li>
+<li><a href="#" title="">Other Services<i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
+<li><a href="company-registration-srilanka.php" title="">Book Keeping</a></li>
 </ul>
 <div class="clearfix"></div>
 </div>
@@ -26,26 +26,27 @@ include "inculude/header.php";
 <div class="row">
 <div class="col-md-8">
 <div class="title-section left">
-<p align="justify">RP Associates is a distinguished firm specializing in corporate registration services, deeply committed to aiding both startups and established enterprises in adhering to national and international legal requirements.</p>
+<p align="justify">RP Associates is a Bookkeeping of content typically refers to organizing, tracking, and managing content across various platforms or mediums. This can apply to digital content, such as articles, blogs, videos, or even physical assets like books and documents.
+
+Here’s a basic structure to manage bookkeeping of content:.</p>
 <br>
-<p align="justify">Our services encompass dependable and cost-effective solutions for registering companies in diverse countries, allowing the flexibility to opt for either online or offline registration methods. Recognizing the demanding schedules of business owners, our primary objective is to streamline the registration process. To achieve this, we have devised clear and user-friendly protocols, making it effortless for our clients to complete their business registrations.</p>
+<p align="justify">Would you like a more specific template or advice on organizing content bookkeeping for a particular platform or type of content?.</p>
 <br>
-<p align="justify">Sri Lanka, strategically positioned at the crossroads of South Asia and the Far East, presents alluring investment prospects for companies venturing into new markets. This is attributed to its well-educated workforce and favorable government incentives and tax policies.</p>
+<p align="justify">When it comes to bookkeeping more content, especially for large-scale operations (like businesses managing multiple channels or content creators managing diverse portfolios), the structure needs to scale with the volume. Here’s a more in-depth approach:.</p>
 <br>
-<p align="justify">For those contemplating the establishment of a foreign business in Sri Lanka, RP Associates is well-prepared to assist you in selecting the most appropriate business structure. We offer invaluable insights into the array of options at your disposal, and our team of experts will seamlessly guide you through each stage of the establishment process, ensuring a successful and hassle-free registration experience.</p>
+<!-- <p align="justify">For those contemplating the establishment of a foreign business in Sri Lanka, RP Associates is well-prepared to assist you in selecting the most appropriate business structure. We offer invaluable insights into the array of options at your disposal, and our team of experts will seamlessly guide you through each stage of the establishment process, ensuring a successful and hassle-free registration experience.</p> -->
 <br>
 <p align="justify"> <u>PROCESS:-</u></p><br>
-<li>Name reservation</li>
-<li>Register an account with ERO</li>
-<li>Company registration</li>
-<li>Submit articles of association</li>
-<li>Give public notice of incorporation</li>
+<li>Invoices: Har sale ke liye invoice record karna zaroori hai. Yeh document batata hai ki aapne kis client ko kitna paisa charge kiya.</li>
+<li>Sales Receipts: Agar aapka business cash basis pe chal raha hai, to har sale ke baad receipt dena aur usko track karna zaroori hai.</li>
+<li>Sales Reports: Agar aapke paas large scale pe sales ho rahi hain, to sales reports monthly ya quarterly prepare karna zaroori hai.</li>
+
 <br>
 </div>
 </div>
 <div class="col-md-4">
 <div class="title-section left">
-<img src="images/services/Srilanka.jpg">
+<img src="images/services/book kiping.jpg">
 </div>
 </div>
 </div>

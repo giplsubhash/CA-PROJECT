@@ -283,6 +283,175 @@ include "inculude/header.php";
                         </div>
                         <div class="box-content">
                             GST registration is compulsory for specific companies, and conducting business without obtaining GST registration is against the law and can lead to penalties for non-compliance with GST regulations.
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+<div class="title-section left">
+<h2>Our Services</h2>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-md-4">
+<div class="iconbox-item">
+<div class="iconbox style1">
+<div class="box-header">                                                                                                                        2
+<div class="icon-rounded ion-clipboard">
+</div>
+<div class="box-title">
+<a href="#" title="Cheque Bounce">ISO Registration</a>
+</div>
+</div>
+<div class="box-content">
+In today's competitive market, businesses that are known for their reliability tend to attract more customers. ISO certification can offer significant advantages to a company, including increased market value, higher profits,
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4">
+<div class="iconbox-item">
+<div class="iconbox style1">
+<div class="box-header">
+<div class="icon-rounded line-chart">
+</div>
+<div class="box-title">
+<a href="#" title="Bank loan EMI default">TDs Return</a>
+</div>
+</div>
+<div class="box-content">
+Expert guidance and representation Could you clarify what you mean by "TDS return contents"? Are you referring to the contents of a TDS (Tax Deducted at Source) return filing in India, 
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4">
+<div class="iconbox-item">
+<div class="iconbox style1">
+<div class="box-header">
+<div class="icon-rounded clock">
+</div>
+<div class="box-title">
+<a href="#" title="Warrant Recall">Copyright Registration</a>
+</div>
+</div>
+<div class="box-content">
+Copyright is the legal entitlement granted to creators of music, art, literature, movies, and software. It safeguards and incentivizes their creative endeavors by conferring exclusive rights.
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-md-12">
+<div class="height80"></div>
+</div>
+</div>
+<div class="row">
+<div class="col-md-4">
+<div class="iconbox-item">
+<div class="iconbox style1">
+<div class="box-header">
+<div class="icon-rounded magic">
+</div>
+<div class="box-title">
+<a href="#" title="Bail Criminal">Startup India Registration</a>
+</div>
+</div>
+<div class="box-content">
+India’s startup scene is thriving, witnessing a surge in young entrepreneurs each year. With a supportive government backing, startups contribute significantly to the nation’s economic growth. 
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4">
+<div class="iconbox-item">
+<div class="iconbox style1">
+<div class="box-header">
+<div class="icon-rounded artboard">
+</div>
+<div class="box-title">
+<a href="#" title="Civil Cases">MSME Registration</a>
+</div>
+</div>
+<div class="box-content">
+Although it may not be a legal requirement, MSME registration offers numerous advantages, including incentives for exporting products, easier access to loans with favorable interest rates,
+ relief from excise duties, and various benefits that cancontribute to the growth and success of these businesses. 
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4">
+<div class="iconbox-item">
+<div class="iconbox style1">
+<div class="box-header">
+<div class="icon-rounded global">
+</div>
+<div class="box-title">
+<a href="#" title="Affidavit services">Patent Registration</a>
+</div>
+</div>
+<div class="box-content">
+Securing a patent registration is essential for safeguarding a design, innovation, or product meeting specific criteria of utility, ethics, and functionality. A patent extends protection to an invention for a span of 20 years, commencing upon filing by the individual.
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div><br></br>
+&nbsp;
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+</div>
+</div>
+<div class="row">
+<div class="col-md-4">
+<div class="iconbox-item">
+<div class="iconbox style1">
+<div class="box-header">
+<div class="icon-rounded ion-clipboard">
+</div>
+<div class="box-title">
+<a href="#" title="Best Legal Advice">Proprietorship Company Registration</a>
+</div>
+</div>
+<div class="box-content">
+RP Associates offers comprehensive services for proprietorship company registration,
+ guiding you through every step to ensure a smooth and hassle-free process. With their expertise, you can establish your proprietorship firm in Kolkata quickly and efficiently
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4">
+<div class="iconbox-item">
+<div class="iconbox style1">
+<div class="box-header">
+<div class="icon-rounded line-chart">
+</div>
+<div class="box-title">
+<a href="#" title="Preparation of sale/rent/mortgage/lease deeds">Preparation of sale/rent/mortgage/lease deeds</a>
+</div>
+</div>
+<div class="box-content">
+Assistance in drafting and preparing legal documents for property transactions, ensuring clarity and enforceability of terms.
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4">
+<div class="iconbox-item">
+<div class="iconbox style1">
+<div class="box-header">
+<div class="icon-rounded clock">
+</div>
+<div class="box-title">
+<a href="#" title="childcustody">GST Registration</a>
+</div>
+</div>
+<div class="box-content">
+GST registration is compulsory for specific companies, and conducting business without obtaining GST registration is against the law and can lead to penalties for non-compliance with GST regulations.
 
 
                         </div>
@@ -346,7 +515,6 @@ include "inculude/header.php";
             </div>
         </div>
     </div>
-
     <div class="container">
         <div class="row">
             <div class="col-md-12">
@@ -575,8 +743,187 @@ include "inculude/header.php";
                 </div>
             </div>
         </div>
-</section>
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+<div class="height80"></div>
+</div>
+</div>
+<div class="row">
+<div class="col-md-4">
+<div class="iconbox-item">
+<div class="iconbox style1">
+<div class="box-header">
+<div class="icon-rounded magic">
+</div>
+<div class="box-title">
+<a href="#" title="Company Law">PVT. LTD. Company Closure</a>
+</div>
+</div>
+<div class="box-content">
+Private Limited Company closure in Kolkata involves adhering to a well-defined legal process to ensure compliance with the Companies Act. The closure can be done through
+ voluntary strike-off if the company is inactive or through liquidation in case of outstanding debts.
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4">
+<div class="iconbox-item">
+<div class="iconbox style1">
+<div class="box-header">
+<div class="icon-rounded ion-clipboard">
+</div>
+<div class="box-title">
+<a href="#" title="Top lawyers for IP registration & infringement petition">Public Limited Company Registration</a>
+</div>
+</div>
+<div class="box-content">
+In accordance with the regulations outlined in the Companies Act of 2013, a Public Limited company is formally recognized as a corporate entity that holds limited liability and is authorized to issue shares to the general public. 
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4">
+<div class="iconbox-item">
+<div class="iconbox style1">
+<div class="box-header">
+<div class="icon-rounded global">
+</div>
+<div class="box-title">
+<a href="#" title="Lok Adalat Matters">Proprietorship Company Registration</a>
+</div>
+</div>
+<div class="box-content">
+RP Associates offers comprehensive services for proprietorship company registration, guiding you through every step to ensure a smooth and hassle-free process. With their expertise, you can establish your proprietorship firm in Kolkata quickly and efficiently.
+</div>
+</div>
+</div>
+</div>
+</div>
+</div><br></br>
+&nbsp;
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+</div>
+</div>
+<div class="row">
 
+<div class="col-md-4">
+<div class="iconbox-item">
+<div class="iconbox style1">
+<div class="box-header">
+<div class="icon-rounded clock">
+</div>
+<div class="box-title">
+<a href="#" title="Loan/Credit Card Disputes">Section 8 Company Registration</a>
+</div>
+</div>
+<div class="box-content">
+A Section 8 company is a business structure established to further causes such as arts, science, education, charity, and more, in accordance with the provisions of
+ the 2013 Companies Act. Its primary objective revolves around advancing non-profit purposes.
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-md-12">
+<div class="height80"></div>
+</div>
+</div>
+<!-- <div class="row">
+<div class="col-md-4">
+<div class="iconbox-item">
+<div class="iconbox style1">
+<div class="box-header">
+<div class="icon-rounded magic">
+</div>
+<div class="box-title">
+<a href="#" title="Title of Property issues">Title of Property issues</a>
+</div>
+</div>
+<div class="box-content">
+Resolution of title-related issues through legal expertise and due diligence, ensuring clear and marketable title to the property.
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4">
+<div class="iconbox-item">
+<div class="iconbox style1">
+<div class="box-header">
+<div class="icon-rounded artboard">
+</div>
+<div class="box-title">
+<a href="#" title="Easement related issues">Easement related issues</a>
+</div>
+</div>
+<div class="box-content">
+Legal assistance in resolving easement-related disputes and issues, ensuring clarity and enforcement of easement rights.
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4">
+<div class="iconbox-item">
+<div class="iconbox style1">
+<div class="box-header">
+<div class="icon-rounded global">
+</div>
+<div class="box-title">
+<a href="#" title="Registration of property">Registration of property</a>
+</div>
+</div>
+<div class="box-content">
+Facilitation of property registration processes, ensuring compliance with legal formalities and protecting your ownership rights.
+</div>
+</div>
+</div>
+</div>
+</div>
+</div><br></br>
+&nbsp;
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+</div>
+</div>
+<div class="row">
+<div class="col-md-4">
+<div class="iconbox-item">
+<div class="iconbox style1">
+<div class="box-header">
+<div class="icon-rounded ion-clipboard">
+</div>
+<div class="box-title">
+<a href="#" title="Consumer Forum">Consumer Forum</a>
+</div>
+</div>
+<div class="box-content">
+Representation and advocacy in consumer dispute resolution forums, ensuring fair treatment and compensation for consumer grievances.
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4">
+<div class="iconbox-item">
+<div class="iconbox style1">
+<div class="box-header">
+<div class="icon-rounded line-chart">
+</div>
+<div class="box-title">
+<a href="#" title="Medical Negligence">Medical Negligence</a>
+</div>
+</div>
+<div class="box-content">
+Legal recourse and advocacy for victims of medical negligence, seeking compensation and accountability for substandard medical care.
+Insurance Claims: Assistance in navigating insurance claim processes, ensuring fair evaluation and settlement of claims.
+</div>
+</div>
+</div>
+</div> -->
+</section>
 <section class="flat-row parallax parallax1 flat-benefit ">
     <div class="container">
         <div class="row">
@@ -1351,7 +1698,4 @@ Director of, Agroplaza Smart Farming And Trading Private Limited
 <?php
 include "inculude/footer.php";
 ?>
-
-<!-- Mirrored from www.rpassociates.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 11 Feb 2025 12:34:14 GMT -->
-
 </html>
