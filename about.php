@@ -30,12 +30,12 @@ include "inculude/header.php";
 <h5 class="brochure-title">Our Brochure</h5>
 <p align="justify">Having operated in the business sector for nearly two decades, RP Associates recognizes the significance of budgetary considerations. In light of this, we assist business owners in identifying the precise services they require. Our team of consulting experts carefully assesses the company's needs and requirements, providing a completely free quote tailored to their specific circumstances. We strive to meet and exceed the expectations of our clients by delivering exceptional satisfaction.</p>
 </div>
-<p class="btn-download">
+<!-- <p class="btn-download">
 <a href="files/rp_associates_brouchure.pdf" title="link70" class="pdf" target="_blank">Download .PDF</a>
 </p>
 <p class="btn-download doc">
 <a href="https://online.fliphtml5.com/giqow/patk/#p=1" title="link71" class="doc" target="_blank">Open in a Book</a>
-</p>
+</p> -->
 </aside>
 </div>
 </div> 

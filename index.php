@@ -59,7 +59,7 @@ include "inculude/header.php";
 </div>
 <div class="imagebox-content">
 <div class="imagebox-desc">
-Our experienced team guides you through every step of the process, ensuring that all legal requirements are met and that your marriage is officially recognized.  
+A trademark serves as a valuable intangible asset that builds investor confidence and supports business growth. It is essential to meet specific requirements when registering a business.  
 </div>
 <div class="imagebox-button">
 <a href="index.php" title="marriage-registration">read more</a>
@@ -79,7 +79,7 @@ Our experienced team guides you through every step of the process, ensuring that
 </div>
 <div class="imagebox-content">
 <div class="imagebox-desc">
-Our expert legal team is dedicated to helping you navigate the complexities of corporate law, ensuring that your business operations are compliant, efficient, and protected. 
+A trademark serves as a valuable intangible asset that builds investor confidence and supports business growth. It is essential to meet specific requirements when registering a business.
 </div>
 <div class="imagebox-button">
 <a href="index.php" title="legal-drafting">read more</a>
@@ -100,7 +100,7 @@ Our expert legal team is dedicated to helping you navigate the complexities of c
 </div>
 <div class="imagebox-content">
 <div class="imagebox-desc">
-Our experienced legal team is committed to delivering strong, effective representation to ensure the best possible outcome for your case.
+A trademark serves as a valuable intangible asset that builds investor confidence and supports business growth. It is essential to meet specific requirements when registering a business.
 </div>
 <div class="imagebox-button">
 <a href="index.php" title="criminal-law">read more</a>
@@ -130,7 +130,7 @@ Our experienced legal team is committed to delivering strong, effective represen
 <div class="icon-rounded ion-clipboard">
 </div>
 <div class="box-title">
-<a href="https://en.wikipedia.org/wiki/Dishonoured_cheque" title="Cheque Bounce">ISO Registration</a>
+<a href="#" title="Cheque Bounce">ISO Registration</a>
 </div>
 </div>
 <div class="box-content">
@@ -146,7 +146,7 @@ In today's competitive market, businesses that are known for their reliability t
 <div class="icon-rounded line-chart">
 </div>
 <div class="box-title">
-<a href="https://en.wikipedia.org/wiki/Loan" title="Bank loan EMI default">TDs Return</a>
+<a href="#" title="Bank loan EMI default">TDs Return</a>
 </div>
 </div>
 <div class="box-content">
@@ -162,7 +162,7 @@ Expert guidance and representation Could you clarify what you mean by "TDS retur
 <div class="icon-rounded clock">
 </div>
 <div class="box-title">
-<a href="https://en.wikipedia.org/wiki/Warrant_(law)" title="Warrant Recall">Copyright Registration</a>
+<a href="#" title="Warrant Recall">Copyright Registration</a>
 </div>
 </div>
 <div class="box-content">
@@ -201,11 +201,12 @@ India’s startup scene is thriving, witnessing a surge in young entrepreneurs e
 <div class="icon-rounded artboard">
 </div>
 <div class="box-title">
-<a href="https://en.wikipedia.org/wiki/Calcutta_High_Court" title="Civil Cases">Civil Cases in Kolkata</a>
+<a href="#" title="Civil Cases">MSME Registration</a>
 </div>
 </div>
 <div class="box-content">
-Experienced legal counsel for civil cases in Kolkata, ensuring fair resolution and protection of your interests.
+Although it may not be a legal requirement, MSME registration offers numerous advantages, including incentives for exporting products, easier access to loans with favorable interest rates,
+ relief from excise duties, and various benefits that cancontribute to the growth and success of these businesses. 
 </div>
 </div>
 </div>
@@ -217,11 +218,13 @@ Experienced legal counsel for civil cases in Kolkata, ensuring fair resolution a
 <div class="icon-rounded global">
 </div>
 <div class="box-title">
-<a href="https://en.wikipedia.org/wiki/Affidavit" title="Affidavit services">Affidavit services</a>
+<a href="#" title="Affidavit services">Patent Registration</a>
 </div>
 </div>
 <div class="box-content">
-Reliable assistance in drafting and notarizing affidavits for various legal purposes, ensuring accuracy and compliance with legal requirements.
+Securing a patent registration is essential for safeguarding a design, innovation, or product meeting specific criteria of utility, ethics, and functionality. A patent extends protection to an invention for a span of 20 years, commencing upon filing by the individual.
+
+
 </div>
 </div>
 </div>
@@ -259,7 +262,7 @@ RP Associates offers comprehensive services for proprietorship company registrat
 <div class="icon-rounded line-chart">
 </div>
 <div class="box-title">
-<a href="https://en.wikipedia.org/wiki/Divorce" title="seperationanddivorce">Separation & Divorce</a>
+<a href="#" title="seperationanddivorce">Separation & Divorce</a>
 </div>
 </div>
 <div class="box-content">
@@ -275,11 +278,13 @@ Compassionate guidance and legal support for navigating separation and divorce p
 <div class="icon-rounded clock">
 </div>
 <div class="box-title">
-<a href="https://en.wikipedia.org/wiki/Child_custody" title="childcustody">Child Custody</a>
+<a href="#" title="childcustody">GST Registration</a>
 </div>
 </div>
 <div class="box-content">
-Advocacy and representation in child custody matters, ensuring the best interests of the child are upheld.
+GST registration is compulsory for specific companies, and conducting business without obtaining GST registration is against the law and can lead to penalties for non-compliance with GST regulations.
+
+
 </div>
 </div>
 </div>

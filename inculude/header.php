@@ -250,6 +250,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <nav id="mainnav" class="mainnav">
 <ul class="menu">
 <li><a href="index.php" title="Home">Home</a></li>
+<li>
+<a href="#" title="link20">Company <i class="fa fa-angle-down" aria-hidden="true"></i></a>
+<ul class="sub-menu">
+<li><a href="about.php" title="link21">About us</a></li>
+<li><a href="contact.php" title="link22">Contact us </a></li>
+</ul>
+</li>
 <!-- <li>
 <a href="#" title="link1">Legal Services <i class="fa fa-angle-down" aria-hidden="true"></i></a>
 <ul class="sub-menu">
@@ -336,13 +343,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <li><a href="hospital-project-management.php" title="link19">Hospital Project Management</a></li>
 </ul>
 </li>
-<li>
-<a href="#" title="link20">Company <i class="fa fa-angle-down" aria-hidden="true"></i></a>
-<ul class="sub-menu">
-<li><a href="about.php" title="link21">About us</a></li>
-<li><a href="contact.php" title="link22">Contact us </a></li>
-</ul>
-</li>
+
 </ul>
 </nav>
 </div>
