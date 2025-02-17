@@ -90,7 +90,7 @@
 
 
 
-  
+
 
   <!-- Stylesheets End -->
 
@@ -256,8 +256,8 @@
           <!-- <div class="flat-questions">
 <a href="#" title="" class="questions">Have any questions?</a>
 <a href="index.php" title="IT Website" class="appointment" target="_blank">VISIT OUR IT WEBSITE</a>
-</div>
-   <div class="clearfix"></div>
+</div> -->
+          <div class="clearfix"></div>
         </div>
       </div>
     </div>
@@ -317,7 +317,7 @@
                       <li><a href="contact.php" title="link22">Contact us </a></li>
                     </ul>
                   </li>
-                  <li class="dropdown" >
+                  <li class="dropdown">
                     <a href="#" title="link5">CA Services <i class="fa fa-angle-down" aria-hidden="true"></i></a>
                     <ul class="menu-area">
                       <ul>
@@ -384,13 +384,13 @@
                   <li>
                     <a href="#" title="link13">Other Services <i class="fa fa-angle-down" aria-hidden="true"></i></a>
                     <ul class="sub-menu">
-                      <li><a href="company-registration-usa.php" title="link14">Company Registration in USA</a></li>
-                      <li><a href="company-registration-uk.php" title="link15">Company Registration in UK</a></li>
-                      <li><a href="company-registration-bangladesh.php" title="link16">Company Registration in Bangladesh</a></li>
-                      <li><a href="company-registration-srilanka.php" title="link17">Company Registration in Sri Lanka</a></li>
-                      <li><a href="company-registration-china.php" title="link17">Company Registration in China</a></li>
-                      <li><a href="web-services.php" title="link18">Web Services</a></li>
-                      <li><a href="hospital-project-management.php" title="link19">Hospital Project Management</a></li>
+                      <li><a href="company-registration-usa.php" title="link14">Digital sign</a></li>
+                      <li><a href="company-registration-uk.php" title="link15">Msme Registration</a></li>
+                      <li><a href="company-registration-bangladesh.php" title="link16">Import Export License</a></li>
+                      <li><a href="company-registration-srilanka.php" title="link17">Book Keeping</a></li>
+                      <li><a href="company-registration-china.php" title="link17">Firm Registration</a></li>
+                      <!-- <li><a href="web-services.php" title="link18">Web Services</a></li>
+<li><a href="hospital-project-management.php" title="link19">Hospital Project Management</a></li> -->
                     </ul>
                   </li>
 
@@ -401,138 +401,3 @@
         </div>
       </div>
   </header>
-<div class="clearfix"></div>
-</div>
-</div>
-</div>
-</div>
-
-<header id="header" class="header bg-color">
-<div class="container">
-<div class="row">
-<div class="header-wrap">
-<div class="col-md-2">
-<div>
-<h2 ><a href="index.php"> <img src="images/rgbnew.png" loading="" alt="logo My Business"></a></h2>
-</div>
-</div>
-<div class="col-md-10">
-<div class="flat-show-search">
-<div class="show-search">
-<a href="#"><i class="fa fa-search"></i></a>
-</div>
-<div class="top-search">
-<form action="#" id="searchform-all" method="get">
-<div>
-<input type="text" id="s" class="sss" placeholder="Search...">
-<input type="submit" value="" id="searchsubmit">
-</div>
-</form>
-</div> 
-</div> 
-<div class="btn-menu">
-<span></span>
-</div>
-<nav id="mainnav" class="mainnav">
-<ul class="menu">
-<li><a href="index.php" title="Home">Home</a></li>
-<!-- <li>
-<a href="#" title="link1">Legal Services <i class="fa fa-angle-down" aria-hidden="true"></i></a>
-<ul class="sub-menu">
-    <li><a href="cyber-security.php" title="link2">Cyber Security</a></li>
-    <li><a href="criminal-law.php" title="link51">Criminal Law</a></li>
-    <li><a href="property-registration.php" title="link52">Property Registration</a></li>
-<li><a href="legal-drafting.php" title="link3">Legal Drafting</a></li>
-<li><a href="marriage-registration.php" title="link4">Marriage Registration</a></li>
-</ul>
-</li> -->
-<li class="dropdown">
-<a href="#" title="link5">Services <i class="fa fa-angle-down" aria-hidden="true"></i></a>
-<ul class="menu-area">
-<ul>
-	<h3><b>Registration Services</b></h3>
-	<li><a href="proprietorship-company-registration.php" title="link53">Proprietorship Company Registration</a></li>
-	<li><a href="partnership-company-registration.php" title="link54">Partnership Company Registration</a></li>
-	<li><a href="opc-company-registration.php" title="link55">One Person Company Registration</a></li>
-	<li><a href="private-limited-company-registration.php" title="link56">Private Limited Company Registration</a></li>
-	<li><a href="llp-company-registration.php" title="link57">LLP Company Registration</a></li>
-	<li><a href="public-limited-company-registrtaion.php" title="link58">Public Limited Company Registration</a></li>
-	<li><a href="section-8-company-registration.php" title="link59">Section 8 Company Registration</a></li>
-	<li><a href="nidhi-company-registration.php" title="link60">Nidhi Company Registration</a></li>
-</ul>
-<ul>
-	<h3><b>ROC Changes Services</b></h3>
-	<li><a href="company-name-change.php" title="link61">Company Name Change</a></li>
-	<li><a href="director-removal.php" title="link62">Director Removal</a></li>
-	<li><a href="director-addition.php" title="link63">Director Addition</a></li>
-	<li><a href="registered-address-change.php" title="link64">Registered Ofiice Address Change</a></li>
-	<li><a href="moa-amendment.php" title="link65">Company MOA Amendment</a></li>
-	<li><a href="company-winding-up.php" title="link66">Company Winding Up</a></li>
-	<li><a href="increase-authorized-capital.php" title="link67">Increase Authorized Capital</a></li>
-	<li><a href="llp-closure.php" title="link68">LLP Closure</a></li>
-	<li><a href="pvt-ltd-closure.php" title="link69">PVT. LTD. Closure</a></li>
-	<li><a href="din-surrender.php" title="link70">DIN Surrender</a></li>
-</ul>
-<ul>
-	<h3><b>Licensing Services</b></h3>
-	<li><a href="trade-license-registration.php" title="link71">Trade License Registration</a></li>
-	<li><a href="fssai-license-registration.php" title="link72">Fssai License Registration</a></li>
-	<li><a href="shop-establishment-registration.php" title="link73">Shop & Establishment Registration</a></li>
-	<li><a href="fire-license-registration.php" title="link74">Fire License Registration</a></li>
-	<li><a href="pollution-license-registration.php" title="link75">Pollution License Registration</a></li>
-	<li><a href="import-export-code.php" title="link76">Import Export Code Registration</a></li>
-	<li><a href="esi-pf-registration.php" title="link77">ESI & PF Registration</a></li>
-	<li><a href="msme-registration.php" title="link78">MSME Registration</a></li>
-	<li><a href="gst-registration.php" title="link79">GST Registration</a></li>
-	<li><a href="gst-return-filling.php" title="link80">GST Return Filling</a></li>
-</ul>
-<ul>
-	<h3><b>Compliance Services</b></h3>
-	<li><a href="pvt-ltd-annual-compliance.php" title="link81">Pvt. Ltd. Annual Compliance</a></li>
-	<li><a href="llp-annual-compliance.php" title="link82">LLP Annual Compliance</a></li>
-	<li><a href="public-limited-annual-compliance.php" title="link83">Public Limited Annual Compliance</a></li>
-	<li><a href="section-8-annual-compliance.php" title="link84">Section 8 Annual Compliance</a></li>
-	<li><a href="nidhi-annual-compliance.php" title="link85">Nidhi Company Annual Compliance</a></li>
-	<li><a href="proprietorship-annual-compliance.php" title="link86">Proprietorship Annual Compliance</a></li>
-	<li><a href="partnership-annual-compliance.php" title="link87">Partnership Annual Compliance</a></li>
-	<li><a href="accounting-packages.php" title="link6">Accounting Packages</a></li>
-</ul>
-</ul>
-</li>
-<li>
-<a href="#" title="link88">Company Branding <i class="fa fa-angle-down" aria-hidden="true"></i></a>
-<ul class="sub-menu">
-<li><a href="trade-mark-registration.php" title="link7">Trade Mark Registration</a></li>
-<!-- <li><a href="barcode-registration.php" title="link8">Barcode Registration</a></li> -->
-<li><a href="iso-registration.php" title="link9">ISO Registration</a></li>
-<li><a href="copyright-registration.php" title="link10">Copyright Registration</a></li>
-<li><a href="patent-registration.php" title="link11">Patent Registration</a></li>
-<li><a href="startupindia-registration.php" title="link12">Startup India Registration</a></li>
-</ul>
-</li>
-<li>
-<a href="#" title="link13">Other Services <i class="fa fa-angle-down" aria-hidden="true"></i></a>
-<ul class="sub-menu">
-<li><a href="company-registration-usa.php" title="link14">Digital sign</a></li>
-<li><a href="company-registration-uk.php" title="link15">Msme Registration</a></li>
-<li><a href="company-registration-bangladesh.php" title="link16">Import Export License</a></li>
-<li><a href="company-registration-srilanka.php" title="link17">Book Keeping</a></li>
-<li><a href="company-registration-china.php" title="link17">Firm Registration</a></li>
-<!-- <li><a href="web-services.php" title="link18">Web Services</a></li>
-<li><a href="hospital-project-management.php" title="link19">Hospital Project Management</a></li> -->
-</ul>
-</li>
-<!-- <li>
-<a href="#" title="link20">Company <i class="fa fa-angle-down" aria-hidden="true"></i></a>
-<ul class="sub-menu">
-<li><a href="about.php" title="link21">About us</a></li>
-<li><a href="contact.php" title="link22">Contact us </a></li>
-</ul>
-</li>
-</ul>
-</nav>
-</div>
-</div>
-</div>
-</div>
-</header>
