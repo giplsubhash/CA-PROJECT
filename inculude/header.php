@@ -289,7 +289,7 @@
               <!-- Search and Hamburger Menu -->
               <div class="d-flex align-items-center">
                 <div class="flat-show-search">
-                  <div class="show-search">
+                  <div class="show-search d-none">
                     <a href="#"><i class="fa fa-search"></i></a>
                   </div>
                   <div class="top-search">
